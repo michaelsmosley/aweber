@@ -1,0 +1,31 @@
+html {
+  background-color: rgb(138, 135, 222);
+  color: white;
+}
+.title {
+  font-size: large;
+  font-weight: 900;
+}
+div {
+    padding: 10px;
+}
+button {
+  background-color: #474747; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.errorBlock {
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+}
+ul {
+    list-style-type: none;
+}
+.errorMessage {
+    font-weight: bold;
+}
